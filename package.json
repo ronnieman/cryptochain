@@ -1,0 +1,18 @@
+{
+  "name": "cryptochain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "update": "^0.7.4"
+  },
+  "description": ""
+}
